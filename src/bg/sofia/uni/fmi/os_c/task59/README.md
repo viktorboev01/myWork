@@ -32,6 +32,7 @@ $ ./main f1.dat f1.idx f2.dat f2.idx
 Примерен вход и изход:
 
 $ xxd f1.dat
+
 00000000: 4c6f 7265 6d20 6970 7375 6d20 646f 6c6f Lorem ipsum dolo
 00000010: 7220 7369 7420 616d 6574 2c20 636f 6e73 r sit amet, cons
 00000020: 6563 7465 7475 7220 6164 6970 6973 6369 ectetur adipisci
@@ -60,6 +61,7 @@ $ xxd f1.dat
 00000190: 206f 6666 6963 6961 2064 6573 6572 756e officia deserun
 000001a0: 7420 6d6f 6c6c 6974 2061 6e69 6d20 6964 t mollit anim id
 000001b0: 2065 7374 206c 6162 6f72 756d 2e0a est laborum..
+
 $ xxd f1.idx
 00000000: 0000 0500 4f01 0200 4e01 0300 ....O...N...
 $ xxd f2.dat
